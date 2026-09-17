@@ -5,6 +5,6 @@
   "type": "module",
   "description": "Servidor de verificación de licencias para Qubiq Control.",
   "dependencies": {
-    "@vercel/postgres": "^0.10.0"
+    "postgres": "^3.4.5"
   }
 }
